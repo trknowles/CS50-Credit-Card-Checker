@@ -33,9 +33,12 @@ Steps:
 
 ---
 
-🎯 Sample Test Numbers
-VISA	4111111111111111
-VISA (13)	4222222222222
-MASTERCARD	5555555555554444
-AMEX	378282246310005
-INVALID	1234567890123456
+### 💳 Sample Test Numbers
+
+| Card Type    | Example Number        |
+|-------------|-----------------------|
+| VISA        | 4111111111111111      |
+| VISA (13)   | 4222222222222         |
+| MASTERCARD  | 5555555555554444      |
+| AMEX        | 378282246310005       |
+| INVALID     | 1234567890123456      |
